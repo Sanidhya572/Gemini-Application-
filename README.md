@@ -1,7 +1,5 @@
 # Gemini Multi-Purpose App
 
-![Gemini Multi-Purpose App Badge](badge-image-url)
-
 This is a Streamlit application that utilizes Google GenerativeAI's Gemini Pro models for text generation and image analysis.
 
 ## Features
