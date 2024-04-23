@@ -27,7 +27,7 @@ This is a Streamlit application that utilizes Google GenerativeAI's Gemini Pro m
 2. Run the application:
 
     ```bash
-    streamlit run main.py
+    streamlit run Gemini.py
     ```
 
 **Use code with caution.**
